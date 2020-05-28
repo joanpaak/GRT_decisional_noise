@@ -11,7 +11,7 @@ In this kind of model each stimulus is assumed to have its own latent bivariate 
 
 This basic model is demonstrated in the figure below:
 
-![A simple demo of GRT, showing four bivariate distributions and orthogonal decisional boundaries](file://figures/grt_demo.png)
+![A simple demo of GRT, showing four bivariate distributions and orthogonal decisional boundaries](figures/grt_demo.png)
 
 The circles depict bivariate normal distributions as they might look like when seen from above. Each of the circles is the assumed latent distribution for a combination of stimulus values on the two dimensions, for example the circle in the lower left corner corresponds to the stimulus with level 1 on both dimensions. 
 
